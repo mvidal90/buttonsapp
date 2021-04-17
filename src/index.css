@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  border: none;
+  border-radius: 30px;
+  height: 30px;
+  margin: 1%;
+  width: 150px;
+}
+
+.rojo{
+  background-color: red; 
+}
+
+.amarillo{
+  background-color: yellow; 
+}
+
+.verde{
+  background-color: green; 
+}
+
+.naranja{
+  background-color: orange; 
+}
